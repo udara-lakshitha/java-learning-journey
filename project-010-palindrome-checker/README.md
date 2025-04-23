@@ -34,6 +34,7 @@ Enter a string: A man, a plan, a canal: Panama
 Original string: "A man, a plan, a canal: Panama"
 Result: It IS a palindrome.
 ```
+```
 --- Palindrome Checker ---
 Enter a string: Hello World
 Original string: "Hello World"
