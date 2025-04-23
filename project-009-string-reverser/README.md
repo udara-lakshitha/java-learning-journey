@@ -28,7 +28,7 @@ This project demonstrates how to reverse a string entered by the user using Java
 6.  Follow the prompt to enter a string. The program will output the reversed string using different methods.
 
 ## Example Usage
-
+```
 --- String Reverser ---
 Enter a string to reverse: Hello World
 Reversed (Concatenation): dlroW olleH
