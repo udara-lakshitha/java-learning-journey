@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/project-001-hello-world" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-002-primitive-types" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-003-simple-calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-004-even-odd-checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-005-number-guessing-game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-006-factorial-calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-007-array-sum-average" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-008-find-max-min" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-009-string-reverser" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-010-palindrome-checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-011-basic-class-rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-012-basic-class-bankaccount" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-013-constructor-overloading-person" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-014-static-member-counter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-015-simple-inheritance-animal" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
